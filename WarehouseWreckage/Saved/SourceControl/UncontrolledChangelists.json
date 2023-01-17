@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/StarterContent/Maps/Untitled.umap",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/IndustryPropsPack6/Maps/Untitled.umap",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/MainMap.umap",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/Untitled.umap",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset",
+				"C:/Users/strei/OneDrive/Documents/Real GitHub/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
